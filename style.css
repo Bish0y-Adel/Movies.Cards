@@ -1,0 +1,38 @@
+* {
+  background-color: rgb(217, 217, 231);
+}
+h1 {
+  background-color: gray;
+}
+header {
+  max-width: 500px;
+  color: black;
+  text-align: center;
+  position: relative;
+  padding: 10px;
+  border-style: solid;
+  border-color: blue;
+  border-width: 10px;
+  margin: 50px;
+  border-radius: 5px;
+  margin: 0 auto;
+  background-color: gray;
+}
+img {
+  transition: transform 0.8s;
+}
+img:hover {
+  transform: scale(1.2);
+}
+div {
+  position: relative;
+  max-width: 1200px;
+  padding: 10px;
+  margin: 0 auto;
+}
+body {
+  background-color: rgb(136, 237, 141);
+}
+div {
+  background-color: rgb(111, 111, 247);
+}
